@@ -1,0 +1,18 @@
+# Core dependencies
+PyPDF2==3.0.1
+boto3==1.34.0
+botocore==1.34.0
+
+# ML frameworks (for generated code)
+torch>=2.0.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+
+# Development and testing
+pytest>=7.0.0
+black>=23.0.0
+flake8>=6.0.0
+
+# Optional: For advanced PDF processing
+# pdfplumber==0.10.3
+# pymupdf==1.23.8
