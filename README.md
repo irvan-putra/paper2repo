@@ -4,12 +4,21 @@ Convert ML research papers into runnable, provenance-linked repositories in <10 
 
 ## 🚀 Quick Demo
 
+### Web Interface (Recommended)
 ```bash
 # Clone and setup
-git clone https://github.com/your-username/paper2repo.git
+git clone https://github.com/irvan-putra/paper2repo.git
 cd paper2repo
-pip install -r requirements.txt
 
+# Start web demo
+./run_demo.sh
+
+# Visit http://localhost:5000 in your browser
+# Upload a PDF and see the magic happen!
+```
+
+### Command Line
+```bash
 # Convert a paper to code
 python pdf_to_code.py your_paper.pdf
 
