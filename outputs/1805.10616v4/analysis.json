@@ -1,0 +1,8 @@
+{
+  "title": "Dynamic Network Model from Partial Observations",
+  "abstract": "Can evolving networks be inferred and modeled without directly observing their nodes and edges? In many applications, the edges of a dynamic network might not be observed, but one can observe the dynamics of stochastic cascading processes...",
+  "main_method": "Neural Network",
+  "architecture": "Recurrent neural network with memory cells",
+  "key_equations": "Standard neural network equations with backpropagation",
+  "implementation_hints": "Use modern deep learning framework"
+}

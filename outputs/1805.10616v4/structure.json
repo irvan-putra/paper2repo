@@ -1,0 +1,18 @@
+{
+  "modules": [
+    "model.py",
+    "train.py",
+    "utils.py"
+  ],
+  "main_module": "model.py",
+  "dependencies": [
+    "torch",
+    "numpy",
+    "matplotlib"
+  ],
+  "structure": {
+    "model.py": "Main model implementation",
+    "train.py": "Training loop and optimization",
+    "utils.py": "Utility functions and data processing"
+  }
+}
