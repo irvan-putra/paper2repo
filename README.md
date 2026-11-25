@@ -139,7 +139,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🙏 Acknowledgments
 
 - Inspired by NotebookLM's multi-panel, source-grounded UX
-- Built with Amazon Q Developer assistance
 - Research baselines: Paper2Code, PaperCoder
 
 ## 📞 Contact
@@ -153,4 +152,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Built with AI assistance (Instinct, AWS Kiro and others). Not everything has been reviewed by Irvan.
+Built with AI assistance (Instinct, AWS Kiro, Amazon Q Developer and others). Not everything has been reviewed by Irvan.
