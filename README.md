@@ -1,6 +1,6 @@
 # Paper2Repo
 
-Convert ML research papers into runnable, provenance-linked repositories in <10 minutes.
+Proof of concept: convert ML research papers into runnable, provenance-linked repositories. The target is under 10 minutes per paper; this is early-stage and not everything works end to end yet - see **Current Status** below.
 
 ## 🚀 Quick Demo
 
@@ -101,7 +101,7 @@ class NeuralNetworkModel(nn.Module):
 
 ### Installation
 ```bash
-git clone https://github.com/your-username/paper2repo.git
+git clone https://github.com/irvan-putra/paper2repo.git
 cd paper2repo
 pip install -r requirements.txt
 ```
@@ -143,8 +143,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **Issues**: [GitHub Issues](https://github.com/your-username/paper2repo/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/your-username/paper2repo/discussions)
+- **Issues**: [GitHub Issues](https://github.com/irvan-putra/paper2repo/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/irvan-putra/paper2repo/discussions)
 
 ---
 
